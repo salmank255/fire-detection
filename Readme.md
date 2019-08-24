@@ -5,7 +5,7 @@ https://ieeexplore.ieee.org/abstract/document/8635329
 
 Download the Dataset from: https://drive.google.com/drive/folders/104NGuq83r3tKXINfqSv1SLmKvwBN8Min?usp=sharing
 
-The code for our smoke detection paper will be uploaded soon.
+The code for our fire detection paper will be uploaded soon.
 
 
 ## Please cite the following paper
