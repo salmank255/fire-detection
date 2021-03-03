@@ -3,7 +3,7 @@
 https://ieeexplore.ieee.org/abstract/document/8635329
 
 
-Download the Dataset from: https://drive.google.com/drive/folders/104NGuq83r3tKXINfqSv1SLmKvwBN8Min?usp=sharing
+Download the Dataset from: https://drive.google.com/file/d/1st5M9sz-UWvdO2RWISwvZsUsjKVKdel9/view?usp=sharing
 
 The code for our fire detection paper will be uploaded soon.
 
